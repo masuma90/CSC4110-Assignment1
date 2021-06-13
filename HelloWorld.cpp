@@ -11,7 +11,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Hello World!"; 
+    cout<<"Changing the greetings"; 
       
     return 0; 
 } 
